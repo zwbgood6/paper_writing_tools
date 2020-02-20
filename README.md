@@ -12,3 +12,5 @@ latex
 
 - library for Tex examples: http://www.texample.net/tikz/examples/
 
+- table: https://www.tablesgenerator.com/
+
