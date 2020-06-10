@@ -19,3 +19,7 @@ latex
 - draw a symbol: http://detexify.kirelabs.org/classify.html
 
 - Latex intro book: https://tobi.oetiker.ch/lshort/lshort.pdf
+
+## Connect related paper
+
+- ConnectPapers(https://www.connectedpapers.com/)
