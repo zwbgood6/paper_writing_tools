@@ -14,6 +14,8 @@ latex
 
 - library for Tex examples: http://www.texample.net/tikz/examples/
 
+- pdf 2 png with high quality: https://pdfcandy.com/result/2003986a2047.html
+
 - table: https://www.tablesgenerator.com/
 
 - Lyx: software, https://www.lyx.org/Home
